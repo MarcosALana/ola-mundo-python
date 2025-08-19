@@ -13,11 +13,8 @@ print("Meu primeiro dia aprendendo Python!")
 O que foi aprendido
 
 Como rodar o primeiro programa em Python.
-
 O que é a função print().
-
 Diferença entre números e textos (strings).
-
 Primeira experiência com ambientes online (Google Colab / Replit).
 
 Comentário pessoal
